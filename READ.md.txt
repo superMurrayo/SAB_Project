@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hellow world - change
-=======
-hellow world hell again
->>>>>>> ad26278109bcf22172049444702fe2eb9addce99
